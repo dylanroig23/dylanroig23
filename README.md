@@ -12,7 +12,7 @@ for stopping by! :smiley:
 - Expand my knowledge of technology 
 - Apply in classroom concepts to out of class projects
 
-## A Little Bit About MySelf 
+## A Little Bit About Myself 
 I am currently a Computer Science and Engineering student in my second 
 year of schooling. Technology has always been a love of mine and I enjoy 
 creating/building new things as well as making my ideas a reality. As it 
