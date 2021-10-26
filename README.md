@@ -23,7 +23,7 @@ by your own imagination which leads to endless possibilites. I look forward to
 contributing to the GitHub community, even if my contributes may be small for 
 the time being!
 
-*Want to connect?* Click Here: [LinkedIn](www.linkedin.com/in/dylan-roig)
+*Want to connect?* Click Here: [LinkedIn](https://www.linkedin.com/in/dylan-roig/)
 <!--
 **dylanroig23/dylanroig23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
