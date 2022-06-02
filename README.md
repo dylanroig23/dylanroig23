@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 I am looking forward to doing some meaningful work as well as work 
-that I have an interest in outsideof the classroom. I've worked with 
+that I have an interest in outside of the classroom. I've worked with 
 other repositories in the past but GitHub has been a far easier way to 
 collaborate with others. Thanks for stopping by! :smiley:  
 
